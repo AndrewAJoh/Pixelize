@@ -3,9 +3,9 @@
 
 Pixelize is a fun python utility based on the Python Imaging Library (PIL) that converts a picture into a lower resolution.
 
-<img src="https://imgur.com/a/zkKbQMw">
+<img src="https://i.imgur.com/iaQMaF9.jpg">
 
-<img src="https://imgur.com/a/bgy39dJ">
+<img src="https://i.imgur.com/6ZxVP2g.jpg">
 
 
 # Requirements
